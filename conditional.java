@@ -56,7 +56,6 @@ public class conditional {
         //---->
         // System.out.print("Enter n: ");
         // int n = sc.nextInt();
-
         // if (n <= 1) {
         //     System.out.println("Not Prime!");
         // } else if (n == 2) {
@@ -75,16 +74,17 @@ public class conditional {
         //         System.out.println("Not Prime!");
         //     }
         // }
-
         //---->
+        // System.out.print("Enter n: ");
+        // int n = sc.nextInt();
+        // int fact = 1;
+        // for (int i=1;i<=n;i++) {
+        //     fact *= i;
+        // }
+        // System.out.println(fact);
 
-        System.out.print("Enter n: ");
-        int n = sc.nextInt();
-        int fact = 1;
-        for (int i=1;i<=n;i++) {
-            fact *= i;
-        }
-        System.out.println(fact);
+        
+
 
     }
 }
